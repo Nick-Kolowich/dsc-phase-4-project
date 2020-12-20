@@ -49,14 +49,18 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 | 32621 | 130.76% | 
 | 32461 | 125.85% |
 | 34449 | 123.48% |
-| 32355 | 121.36% |
+| 32455 | 121.36% |
 | 32625 | 117.45% |
 
 <details>
     
    <summary> Corresponding Forecast Plots </summary>
     
-![32320](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032320.png)
+![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
+![32461](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032461.png)
+![34449](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2034449.png)
+![32455](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032455.png)
+![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
 
 </details>
 
