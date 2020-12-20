@@ -43,19 +43,20 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 ## Top 5 Zip Codes
     
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
+
+| Zip Codes| Percent Return (2 Year Forecast) |
+| --------------- | --------------- |
+| 32621 | 130.76% | 
+| 32461 | 125.85% |
+| 34449 | 123.48% |
+| 32355 | 121.36% |
+| 32625 | 117.45% |
+
 <details>
     
-   <summary> Zip Codes </summary>
-          <details>
+   <summary> Corresponding Forecast Plots </summary>
     
-                  <summary> 31234 </summary>
-          
-    
-          details go here
-
-          </details>
-    
-details go here
+![32320](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032320.png)
 
 </details>
 
