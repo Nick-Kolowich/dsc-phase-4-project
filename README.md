@@ -29,27 +29,12 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
 </p>
 
 ## Map of Florida (Two Year Returns)
-<details>
 
-  <summary> Legend </summary>
-    
-    legend pic
-
-</details>
-
-![img]()
+![img](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%202%20year.png)
 
 ## Map of Florida (Five Year Returns)
-
-<details>
-
-  <summary> Legend </summary>
     
-    legend pic
-    
-![imglegend]()
-
-</details>
+![imglegend](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%205%20year.png)
 
 ## Top 5 Zip Codes
     
