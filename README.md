@@ -20,9 +20,13 @@ To build a forecast model for the prices of homes in Florida, in order to predic
 
 ## Data Description
 
-![zillowimg](https://logodix.com/logo/1176610.png)
-
 The housing data used in this analysis comes from [Zillow Research](https://www.zillow.com/research/data/). The data contains information on x number of zip codes in Florida, and spans a 22 year period, from 1996 - 2018. <br/>
+<br/>
+<p align="center">
+  <a href="https://www.zillow.com/research/data/" title="Zillow Research">
+    <img src="http://filecache.mediaroom.com/mr5mr_zillow/204622/Zillow_Wordmark_Blue_RGB.jpg" />
+  </a>
+</p>
 
 ## Map of Florida (Two Year Returns)
 <details>
