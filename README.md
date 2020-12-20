@@ -33,7 +33,7 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
 
   <summary> Legend </summary>
     
-![imglegend](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/legend.png)
+    legend pic
 
 </details>
 
@@ -44,6 +44,8 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
 <details>
 
   <summary> Legend </summary>
+    
+    legend pic
     
 ![imglegend]()
 
