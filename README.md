@@ -20,7 +20,7 @@ To build a forecast model for the prices of homes in Florida, in order to predic
 
 ## Data Description
 
-The housing data used in this analysis comes from [Zillow Research](https://www.zillow.com/research/data/). The data contains information on x number of zip codes in Florida, and spans a 22 year period, from 1996 - 2018. <br/>
+The housing data used in this analysis comes from [Zillow Research](https://www.zillow.com/research/data/). The data contains information on 785 zip codes in Florida, and spans a 22 year period, from 1996 - 2018. <br/>
 <br/>
 <p align="center">
   <a href="https://www.zillow.com/research/data/" title="Zillow Research">
@@ -45,7 +45,15 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
 <details>
     
-   <summary> summary goes here for dropdown bar </summary>
+   <summary> Zip Codes </summary>
+          <details>
+    
+                  <summary> 31234 </summary>
+          
+    
+          details go here
+
+          </details>
     
 details go here
 
