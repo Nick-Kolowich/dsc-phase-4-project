@@ -10,17 +10,19 @@ This project examines the median sale prices by zip code for houses within the s
 [Presentation](presentationlink)<br/>
 [Purpose](README.md#Purpose) <br/>
 [Data Description](README.md#Data-Description) <br/>
-[Map of Two Year Returns](README.md#Map-of-Florida-(Two-Year-Returns) <br/>
-[Map of Five Year Returns](README.md#Map-of-Florida-(Five-Year-Returns) <br/>
-[Questions](README.md#Questions) <br/>
+[Map of Two Year Returns](README.md#Map-of-Florida-(Two-Year-Returns)) <br/>
+[Map of Five Year Returns](README.md#Map-of-Florida-(Five-Year-Returns)) <br/>
+[Top 5 Zip Codes](README.md#Top-5-Zip-Codes) <br/>
 [Summary](README.md#Summary) <br/>
 
 ## Purpose
-To build a forecast model for the prices of homes in Florida, in order to predict the best zip codes for investment over a 2 and 5 year horizon.
+To build a forecast model for the prices of homes in Florida, in order to predict the top five zip codes for investment over a two and five year horizon.
 
 ## Data Description
 
-Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). The data contains information on 453,326 accidents occuring inside the Chicago City limits between 2015 and 2021. All crashes are recorded as per the format specified in the Traffic Crash Report, SR1050, of the Illinois Department of Transportation. <br/>
+![zillowimg](https://logodix.com/logo/1176610.png)
+
+The housing data used in this analysis comes from [Zillow Research](https://www.zillow.com/research/data/). The data contains information on x number of zip codes in Florida, and spans a 22 year period, from 1996 - 2018. <br/>
 
 ## Map of Florida (Two Year Returns)
 <details>
@@ -43,7 +45,7 @@ Crash data shows information about each traffic crash on city streets within the
 
 </details>
 
-## Questions
+## Top 5 Zip Codes
     
 <h3> Question 1: What time of day do crashes typically occur? </h3>
 <details>
