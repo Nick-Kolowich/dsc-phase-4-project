@@ -44,7 +44,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
     
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
 
-| Zip Codes| Percent Return (2 Year Forecast) |
+| Zip Codes| Percent Return|
 | --------------- | --------------- |
 | 32621 | 130.76% | 
 | 32461 | 125.85% |
