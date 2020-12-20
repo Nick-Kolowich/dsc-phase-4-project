@@ -51,58 +51,27 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
 
 ## Top 5 Zip Codes
     
-<h3> Question 1: What time of day do crashes typically occur? </h3>
+<h3> Top 5 Zip Codes - 2 year forecast </h3>
 <details>
     
-   <summary> Spikes in accidents are primarily seen during commuting hours. </summary>
+   <summary> summary goes here for dropdown bar </summary>
     
-![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/hourofcrashdistpresentation.png) 
+details go here
 
 </details>
 
-<h3> Question 2: Does inclement weather disproportionately cause fatal accidents? </h3>
+<h3> Top 5 Zip Codes - 5 year forecast </h3>
 <details>
     
-   <summary> Weather conditions have little bearing on accident fatality. </summary><br/>
-   
-   <ul>
-   <li> Rain is 1.08x more likely to be present during a fatal crash. </li>
-   <li> Snow is 0.55x as likely to be present </li>
-   <li> Fog/Smoke/Haze is 1.90x more likely </li>
-   </ul><br/>
-    
-![image png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/weatherfatalvsnoinjury.png)
+   <summary> summary goes here </summary><br/>
+  
+details go here
 
 </details>
 
-<h3> Question 3: How has Covid-19 impacted accident frequency in Chicago? </h3>
-<details>
-    
-   <summary> Far fewer accidents have occurred after March 2020. </summary><br/>
-   
-   <ul>
-   <li> 2018 </li>
-    <ul>
-    <li> 68,286 accidents</li>
-    </ul>
-   <li> 2019 </li>
-    <ul>
-        <li> 65,106 accidents </li>
-    </ul>
-   <li> 2020 </li>
-    <ul>
-        <li> 42,375 accidents </li>
-    </ul>
-   </ul><br/>
-   
-   The blue line denotes the stay-at-home orders issued by Governor Pritzker on March 20th. <br/>
-   
-![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/covid19traffic.png) 
-
-</details>
 
 ## Summary
 
-Most of the accidents in Chicago are attributable to driver negligence, a broad category which encompasses things such as following too closely, failing to yield, improper turning, and many other traffic violations. The Chicago Traffic Management Authority (TMA) could potentially seek to reduce these occurrences by implementing harsher penalties for traffic violations. <br/>
+summary of project <br/>
  <br/>
-There is a noticeable spike in accidents during commuting hours, both in the morning and evening. A potential solution to this might be to stagger business start times, to alleviate congestion on the roads during the mornings and evenings. For instance, the 8 hour work day could be shifted forward two hours for some businesses, starting at 11 and ending at 7, rather than the traditional 9-5. 
+final notes
