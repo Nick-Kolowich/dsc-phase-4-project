@@ -28,6 +28,10 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
   </a>
 </p>
 
+## Map of Florida
+
+Below are the respective maps for the 2 and 5 year windows. The returns were calculated starting from the last day of the historical data  until the last day for the forecasted timeframe. The ROIs were then arranged into octiles and colored accordingly. The numerical values in the legends correspond with the percent returns for the time period.
+
 ## Map of Florida (Two Year Returns)
 
 ![img](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%202%20year.png)
