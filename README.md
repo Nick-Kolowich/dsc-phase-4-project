@@ -32,7 +32,7 @@ The housing data used in this analysis comes from [Zillow Research](https://www.
 
 ## Maps
 
-Below are the respective maps for the 2 and 5 year windows. The returns were calculated starting from the last day of the historical data  until the last day for the forecasted timeframe. The ROIs were then arranged into octiles and colored accordingly. The numerical values in the legends correspond with the percent returns for the time period.
+Below are the respective maps for the 2 and 5 year windows as well as a map showing the top 5 zip codes for the entirety of Florida over both timeframes. The returns were calculated starting from the last day of the historical data  until the last day for the forecasted timeframe. The ROIs were then arranged into octiles and colored accordingly. The numerical values in the legends correspond with the percent returns for the time period.
 
 ## Map of Florida (Two Year Returns)
 
