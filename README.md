@@ -44,7 +44,7 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
 
 ## Comprehensive Map - Top 5 Zipcodes for Both Timeframes
 
-![imgcomp](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%20comprehensive%20version.png)
+![imgcomp](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%20comprehensive.png)
 
 ## Top 5 Zip Codes
 
