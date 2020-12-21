@@ -44,7 +44,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 
 ## Comprehensive Map
 
-![imgcomp](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%20comprehensive.png)
+![imgcomp](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%20comprehensive%20version.png)
 
 ## Top 5 Zip Codes
 
