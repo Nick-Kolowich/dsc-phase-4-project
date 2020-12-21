@@ -13,7 +13,7 @@ This project examines the median sale prices by zip code for houses within the s
 [Maps](README.md#Maps)<br/>
   -[Map of Two Year Returns](README.md#Map-of-Florida-(Two-Year-Returns)) <br/>
   -[Map of Five Year Returns](README.md#Map-of-Florida-(Five-Year-Returns)) <br/>
-  -[Comprehensive Map](README.md#Comprehensive-Map) <br/>
+  -[Comprehensive Map](README.md#Comprehensive-Map---Top-5-Zipcodes-for-Both-Timeframes) <br/>
 [Top 5 Zip Codes](README.md#Top-5-Zip-Codes) <br/>
 [Summary](README.md#Summary) <br/>
 
@@ -42,7 +42,7 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
     
 ![img5year](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%205%20year.png)
 
-## Comprehensive Map
+## Comprehensive Map - Top 5 Zipcodes for Both Timeframes
 
 ![imgcomp](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/map%20-%20comprehensive%20version.png)
 
