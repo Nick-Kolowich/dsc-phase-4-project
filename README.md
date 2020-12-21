@@ -57,7 +57,6 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 <details>
     
   <summary> Corresponding Forecast Plots </summary></br>
-  </div> 
   <details>
   <summary> 32621 - Bronson </summary>
   
@@ -90,8 +89,10 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   </details> 
 
 </details>
-
+  </div> 
+  
 <div align="center">
+  
 <h3> Top 5 Zip Codes - 5 year forecast </h3>
 
 | Zip Codes| Percent Return|
@@ -105,7 +106,6 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 <details>
     
   <summary> Corresponding Forecast Plots </summary></br>
-  </div> 
   <details>
   <summary> 32621 - Bronson </summary>
   
@@ -136,6 +136,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
   </details>
+    </div> 
 ## Summary
 
 summary of project <br/>
