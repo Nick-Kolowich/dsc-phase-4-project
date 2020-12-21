@@ -54,6 +54,32 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 
 <details>
     
+  <summary> Corresponding Forecast Plots </summary>
+  <details>
+  <summary> 32621 </summary>
+  
+  ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
+  
+  </details>
+![32461](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032461.png)
+![34449](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2034449.png)
+![32455](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032455.png)
+![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
+
+</details>
+
+<h3> Top 5 Zip Codes - 5 year forecast </h3>
+
+| Zip Codes| Percent Return|
+| --------------- | --------------- |
+| 32461 | 679.53% | 
+| 32461 | 125.85% |
+| 34449 | 123.48% |
+| 32455 | 121.36% |
+| 32625 | 117.45% |
+
+<details>
+    
    <summary> Corresponding Forecast Plots </summary>
     
 ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
@@ -63,16 +89,6 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
 
 </details>
-
-<h3> Top 5 Zip Codes - 5 year forecast </h3>
-<details>
-    
-   <summary> summary goes here </summary><br/>
-  
-details go here
-
-</details>
-
 
 ## Summary
 
