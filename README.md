@@ -42,7 +42,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 
 ## Top 5 Zip Codes
 
-<p align="center"></p>
+<div align="center">
   
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
 
@@ -53,8 +53,6 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 | 34449 | 123.48% |
 | 32455 | 121.36% |
 | 32625 | 117.45% |
-
-<p></p>
 
 <details>
     
@@ -89,7 +87,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
   </details>
-  
+</div>  
 
 </details>
 
@@ -103,7 +101,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
 | 34449 | 123.48% |
 | 32455 | 121.36% |
 | 32625 | 117.45% |
-</div>
+
 <details>
     
   <summary> Corresponding Forecast Plots </summary></br>
@@ -137,7 +135,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
   </details>
-
+</div>
 ## Summary
 
 summary of project <br/>
