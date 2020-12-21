@@ -103,41 +103,41 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
 
 | Zip Codes| Percent Return|
 | :-------------: | :-------------: |
-| 32621 | 130.76% | 
-| 32461 | 125.85% |
-| 34449 | 123.48% |
-| 32455 | 121.36% |
-| 32625 | 117.45% |
+| 33181 | 728.86% |
+| 32320 | 342.46% | 
+| 33701 | 292.44% |
+| 33704 | 233.41% |
+| 32680 | 203.31% |
 
 <details>
     
   <summary> Corresponding Forecast Plots </summary></br>
   <details>
-  <summary> 32621 - Bronson </summary>
+  <summary> 33181 - North Miami </summary>
   
   ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
   
   </details>
   <details>
-  <summary> 32461 - Panama City Beach </summary>
+  <summary> 32320 - Apalachicola </summary>
   
   ![32461](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032461.png)
   
   </details>
   <details>
-  <summary> 34449 - Inglis </summary>
+  <summary> 33701 - St. Petersburg </summary>
   
   ![34449](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2034449.png)
   
   </details>
   <details>
-  <summary> 32455 - Ponce De Leon </summary>
+  <summary> 33704 - St. Petersburg </summary>
   
   ![32455](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032455.png)
   
   </details>
   <details>
-  <summary> 32625 - Cedar Key </summary>
+  <summary> 32680 - Old Town </summary>
   
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
