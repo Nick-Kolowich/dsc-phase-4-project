@@ -56,31 +56,31 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
     
   <summary> Corresponding Forecast Plots </summary></br>
   <details>
-  <summary> 32621 </summary>
+  <summary> 32621 - Bronson </summary>
   
   ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
   
   </details>
   <details>
-  <summary> 32461 </summary>
+  <summary> 32461 - Panama City Beach </summary>
   
   ![32461](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032461.png)
   
   </details>
   <details>
-  <summary> 32461 </summary>
+  <summary> 34449 - Inglis </summary>
   
   ![34449](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2034449.png)
   
   </details>
   <details>
-  <summary> 32455 </summary>
+  <summary> 32455 - Ponce De Leon </summary>
   
   ![32455](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032455.png)
   
   </details>
   <details>
-  <summary> 32625 </summary>
+  <summary> 32625 - Cedar Key </summary>
   
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
