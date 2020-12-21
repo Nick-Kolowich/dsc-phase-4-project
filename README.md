@@ -58,6 +58,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
     
   <summary> Corresponding Forecast Plots </summary></br>
   <details>
+  </div> 
   <summary> 32621 - Bronson </summary>
   
   ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
@@ -86,8 +87,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
-  </details>
-</div>  
+  </details> 
 
 </details>
 
@@ -106,6 +106,7 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
     
   <summary> Corresponding Forecast Plots </summary></br>
   <details>
+  </div>
   <summary> 32621 - Bronson </summary>
   
   ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
@@ -135,7 +136,6 @@ Below are the respective maps for the 2 and 5 year windows. The returns were cal
   ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
   
   </details>
-</div>
 ## Summary
 
 summary of project <br/>
