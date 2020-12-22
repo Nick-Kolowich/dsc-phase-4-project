@@ -162,4 +162,4 @@ By aggregating the information for all zipcodes within Florida, we are able to c
 
 ## Summary
 
-This project seeks to not only provide an answer to "which are the best zip codes for investment in Florida," but also to serve as a framework for this type of analysis which could be scaled up and applied to any state. The incorporation of other price factors, such as school district rigorousness, could help to construct a more comprehensive model for future work.<br/>
+This project seeks to not only provide an answer to "which are the best zip codes for investment in Florida," but also to serve as a framework for this type of analysis, which could be scaled up and applied to any state. The incorporation of other price factors, such as school district rigorousness, could help to construct a more comprehensive model for future work.<br/>
