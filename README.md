@@ -154,11 +154,10 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 
 By aggregating the information for all zipcodes within Florida, we are able to clearly see the trend occurring within the housing market over the past two decades. The "top" in the housing market was seen close to July 2007 and didn't subsequently bottom out until January 2012.
 
+<div align="center">
 ![financialcrisisimg](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/financial%20crisis.png)
-
+</div>
 
 ## Summary
 
-summary of project <br/>
- <br/>
-final notes
+This project seeks to not only provide an answer to "which are the best zip codes for investment in Florida," but also to serve as a framework for this type of analysis which could be scaled up and applied to any state. The incorporation of other price factors, such as school district rigorousness, could help to construct a more comprehensive model for future work.<br/>
