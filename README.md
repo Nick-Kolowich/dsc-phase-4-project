@@ -53,7 +53,7 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 
 <div align="center">
 
-![imghistorical](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20historical.png)
+![imghistorical](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20historical%20trend.png)
   
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
 
@@ -104,7 +104,7 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 
 <div align="center">
   
-![imghistorical5yr](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20historical.png)  
+![imghistorical5yr](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20historical%20trend.png)  
   
 <h3> Top 5 Zip Codes - 5 year forecast </h3>
 
