@@ -107,7 +107,7 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
 | 32320 | 342.46% | 
 | 33701 | 292.44% |
 | 33704 | 233.41% |
-| 32680 | 203.31% |
+| 32680 | 223.31% |
 
 <details>
     
@@ -115,31 +115,31 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
   <details>
   <summary> 33181 - North Miami </summary>
   
-  ![32621](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032621.png)
+  ![33181](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2033181.png)
   
   </details>
   <details>
   <summary> 32320 - Apalachicola </summary>
   
-  ![32461](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032461.png)
+  ![32320](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2032320.png)
   
   </details>
   <details>
   <summary> 33701 - St. Petersburg </summary>
   
-  ![34449](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2034449.png)
+  ![33701](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2033701.png)
   
   </details>
   <details>
   <summary> 33704 - St. Petersburg </summary>
   
-  ![32455](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032455.png)
+  ![33704](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2033704.png)
   
   </details>
   <details>
   <summary> 32680 - Old Town </summary>
   
-  ![32625](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/2%20year%20-%2032625.png)
+  ![32680](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2032680.png)
   
   </details>
     </div> 
