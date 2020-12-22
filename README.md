@@ -54,13 +54,13 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
   
 <h3> Top 5 Zip Codes - 2 year forecast </h3>
 
-| Zip Codes| Percent Return|
-| :--------------: | :--------------: |
-| 32621 | 130.76% | 
-| 32461 | 125.85% |
-| 34449 | 123.48% |
-| 32455 | 121.36% |
-| 32625 | 117.45% |
+| Zip Codes - City | Percent Return|
+| ---------------- | :--------------: |
+| 32621 - Bronson | 130.76% | 
+| 32461 - Panama City Beach | 125.85% |
+| 34449 - Inglis | 123.48% |
+| 32455 - Ponce De Leon | 121.36% |
+| 32625 - Panama City Beach| 117.45% |
 
 <details>
     
@@ -107,11 +107,11 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
 
 | Zip Codes| Percent Return|
 | :-------------: | :-------------: |
-| 33181 | 728.86% |
-| 32320 | 342.46% | 
-| 33701 | 292.44% |
-| 33704 | 233.41% |
-| 32680 | 223.31% |
+| 33181 - North Miami | 728.86% |
+| 32320 - Apalachicola| 342.46% | 
+| 33701 - St. Petersburg| 292.44% |
+| 33704 - St. Petersburg| 233.41% |
+| 32680 - Old Town| 223.31% |
 
 <details>
     
