@@ -63,7 +63,7 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 | 32461 - Panama City Beach | 125.85% |
 | 34449 - Inglis | 123.48% |
 | 32455 - Ponce De Leon | 121.36% |
-| 32625 - Panama City Beach| 117.45% |
+| 32625 - Cedar Key| 117.45% |
 
     
   <h4> Corresponding Forecast Plots </h4>
