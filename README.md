@@ -49,7 +49,7 @@ Below are the respective maps for the 2 and 5 year windows as well as a map show
 
 ## Top 5 Zip Codes
 
-Below are the historical median plots for the 5 best zip codes to invest for the 2 and 5 year windows, respectively. The tables that accompany the charts show the forecasted ROI for the corresponding zip codes over these windows. The dropdown bar shows the corresponding forecast plots for each of the zipcodes.
+Below are the historical median plots for the 5 best zip codes to invest for the 2 and 5 year windows, respectively. The tables that accompany the charts show the forecasted ROI for the corresponding zip codes over these windows. The dropdown bars show the corresponding forecast plots for each of the zipcodes.
 
 <div align="center">
 
