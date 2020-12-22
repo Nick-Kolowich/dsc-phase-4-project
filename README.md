@@ -15,6 +15,7 @@ This project examines the median sale prices by zip code for houses within the s
   -[Map of Five Year Returns](README.md#Map-of-Florida-(Five-Year-Returns)) <br/>
   -[Comprehensive Map](README.md#Comprehensive-Map---Top-5-Zipcodes-for-Both-Timeframes) <br/>
 [Top 5 Zip Codes](README.md#Top-5-Zip-Codes) <br/>
+[Financial Crisis](README.md#Financial-Crisis) <br/>
 [Summary](README.md#Summary) <br/>
 
 ## Purpose
@@ -64,9 +65,9 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 | 32455 - Ponce De Leon | 121.36% |
 | 32625 - Panama City Beach| 117.45% |
 
-<details>
     
-  <summary> Corresponding Forecast Plots </summary></br>
+  <h4> Corresponding Forecast Plots </h4>
+  
   <details>
   <summary> 32621 - Bronson </summary>
   
@@ -114,11 +115,10 @@ Below are the historical median plots for the 5 best zip codes to invest for the
 | 33701 - St. Petersburg| 292.44% |
 | 33704 - St. Petersburg| 233.41% |
 | 32680 - Old Town| 223.31% |
-
-<details>
     
-  <summary> Corresponding Forecast Plots </summary></br>
-  <details>
+ <h4> Corresponding Forecast Plots </h4>
+ 
+ <details>
   <summary> 33181 - North Miami </summary>
   
   ![33181](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/images/5%20year%20-%2033181.png)
@@ -149,6 +149,12 @@ Below are the historical median plots for the 5 best zip codes to invest for the
   
   </details>
     </div> 
+
+## Financial Crisis
+
+By aggregating the information for all zipcodes within Florida, we are able to clearly see the trend occurring within the housing market over the past two decades.
+
+
 ## Summary
 
 summary of project <br/>
