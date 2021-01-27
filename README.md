@@ -7,7 +7,7 @@ This project examines the median sale prices by zip code for houses within the s
 
 ## Links
 
-[Presentation](presentationlink)<br/>
+[Presentation](https://github.com/Nick-Kolowich/dsc-phase-4-project/blob/main/presentation/presentation.pdf)<br/>
 [Purpose](README.md#Purpose) <br/>
 [Data Description](README.md#Data-Description) <br/>
 [Maps](README.md#Maps)<br/>
