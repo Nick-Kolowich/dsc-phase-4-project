@@ -1,4 +1,4 @@
-# Phase 4 Project
+# Forecasting Housing Prices in Florida
 ![png](https://www.phoenixfl.org/wp-content/uploads/2020/05/iStock-1069431162_1500w.jpg)
 
 ## Outline
